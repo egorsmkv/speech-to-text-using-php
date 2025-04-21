@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ankane/onnxruntime": "^0.2.6"
+    }
+}
