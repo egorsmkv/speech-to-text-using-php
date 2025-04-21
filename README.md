@@ -1,10 +1,11 @@
 # PHPy test
 
-Just a research to check PHPy with some models.
+Just a research to check [PHPy][1] with some models.
 
 ## Build an image
 
 ```bash
+# my clone has changes in Dockerfile that install some additional packages
 git clone https://github.com/egorsmkv/phpy
 
 cd phpy
@@ -24,3 +25,5 @@ php composer.phar install
 
 php speech_to_text_w2v2.php
 ```
+
+[1]: https://github.com/swoole/phpy
