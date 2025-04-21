@@ -5,7 +5,7 @@
 pip install librosa transformers
 php composer.phar install
 
-git clone w2v-bert-uk-v2.1_onnx-gpu_op20_fp32
+git clone https://huggingface.co/Yehor/w2v-bert-uk-v2.1_onnx-gpu_op20_fp32
 
 */
 
